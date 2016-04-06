@@ -14,7 +14,7 @@
     <body>
         <%
             response.setContentType("application/vnd.ms-excel");
-            response.setHeader("Content-Disposition", "inline; filename=table.xls");
+            response.setHeader("Content-Disposition", "inline; filename=database.xls");
         %>
 
         <table align="left" border="1">

@@ -1,7 +1,7 @@
 <%-- 
     Document   : excel
     Created on : Apr 6, 2016, 3:41:45 PM
-    Author     : dev
+    Author     : geek
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Geek-Log.Com</title>
     </head>
     <body>
          <% 
